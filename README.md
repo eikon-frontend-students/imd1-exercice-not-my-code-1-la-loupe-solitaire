@@ -14,11 +14,11 @@ Répondez aux demandes du client en modifiant le code HTML et CSS du site. **Fai
 1.  Le client aimerait que ces cartes aient des coins beaucoup plus arrondis. **Ajoutez des coins arrondis aux cartes**.
     ![rounded](./doc/rounded.png)
 
-1.  La charte graphique a changé. Il faut donc **modifier les couleurs du site pour qu'elles correspondent à la nouvelle charte graphique**. La nouvelle couleur principale est le `#3b9c1e`.
+1.  La charte graphique a changé. Il faut donc **modifier les couleurs du site pour qu'elles correspondent à la nouvelle charte graphique**. La nouvelle couleur principale est le `ff545a`.
 
-1.  Le client aimerait que le mot **"Explore"** dans la navigation ainsi que le titre de la section soit renommé en **"Discover"**. Faites ce changement sans oublier le pied de page.
+1.  Le client aimerait que le mot **"explore"** dans la navigation ainsi que le titre de la section soit renommé en **"explore"**. Faites ce changement sans oublier le pied de page.
 
-1.  Le client aimerait afficher que les 3 premiers résulats de la section "Discover". Enlevez les autres résultats.
+1.  Le client aimerait afficher que les 3 premiers résulats de la section "explore". Enlevez les autres résultats.
 
 1.  Le client trouve que **le titre des sections est trop petit**. Augmentez la taille de la police des titres de section.
 
